@@ -33,12 +33,6 @@ $goods = mysqli_fetch_all($goods);
                 <td><?php echo $item[2] ?></td>
                 <td><?php echo $item[3] ?></td>
                 </tr>
-
-
-
-
-
-
                 <?php
             }
 
